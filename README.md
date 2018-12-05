@@ -1,2 +1,2 @@
 # event-sourcing
-Design use cases based on Commands &amp; Events and project them
+Design & Test use cases based on Commands & Events
