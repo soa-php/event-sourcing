@@ -1,0 +1,13 @@
+{
+  "name": "soa-php/event-sourcing",
+  "description": "Design use cases based on Commands & Events and project them",
+  "license": "MIT",
+  "require": {
+    "php": "^7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Soa\\EventSourcing\\": "src/"
+    }
+  }
+}
